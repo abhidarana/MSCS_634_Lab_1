@@ -28,6 +28,5 @@ This lab explores data preprocessing, visualization, and statistical techniques 
 ## Folder Structure
 ```text
 ├── Lab_1_Notebook.ipynb   # Main Jupyter Notebook
-├── customer_data.csv      # Lab dataset
 ├── README.md              # Summary documentation
 └── screenshots/           # Captures of all required notebook execution steps
